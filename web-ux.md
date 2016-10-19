@@ -83,8 +83,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Robbe André
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: andre.robbe@student.kdg.be
+	- github: https://github.com/andrerobbe/kdg-software-engineering-2016-2017.git
 
 - Schuerewegen Dario
 	- e-mailadres: naam@student.kdg.be
